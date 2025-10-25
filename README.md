@@ -1,4 +1,4 @@
-my repositories 👋 Hi, I'm [Sunday]
+👋 Hi, I'm [Sunday]
 🎯 Data Analyst | Turning Data into Actionable Insights
 Welcome to my GitHub! I'm a passionate Data Analyst with a strong focus on transforming raw data into meaningful insights that drive smarter decisions. I love exploring data, uncovering patterns, and telling stories through visualization.
 🧠 About Me
